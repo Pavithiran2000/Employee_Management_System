@@ -1,0 +1,12 @@
+.loginPage {
+    background: linear-gradient(rgba(225, 225, 225, 0.5), rgba(188, 188, 188, 0.5)), url('./Images/employee_ms.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.loginForm {
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+}
